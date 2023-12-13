@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/CSS-2862e9.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle ERP-FFFFFF.svg?style=for-the-badge&logo=Oracle&logoColor=red">
   <img src="https://img.shields.io/badge/JavaScript-efd81d.svg?style=for-the-badge&logo=javascript&logoColor=000000">
-	  <img src="https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=PHP&logoColor=000000">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+	<!--  <img src="https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=PHP&logoColor=000000">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
 </div>
 </p>
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/basecamp-ffd303?style=for-the-badge&logo=basecamp&logoColor=1b2c35">
   <img src="https://img.shields.io/badge/sql-%23092E20.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+ <!-- <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
 	 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 	  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
