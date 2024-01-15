@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rao+Atif+Bashir;I'm+a+Software+Engineer+By+Profession;I+Stand+with+Palestine.;Let's+Talk+about+Oracle+ERP;Oracle+BI-Dashboards.;Oracle+APEX.;Also+Learning+Data+Science;Data+Analysis.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rao+Atif+Bashir;I+Stand+with+Palestine.;I'm+a+Software+Engineer+By+Profession;Diving+Into+Oracle+ERP,;Oracle+BI-Dashboards,;Oracle+Application+Express(APEX);Embarking+On+A+Data+Science+'&';Data+Analysis+Journey+As-Well.;&center=true&width=500&height=50"></a>
 </p>
 
 <p>
