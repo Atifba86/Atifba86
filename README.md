@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rao+Atif+Bashir;I+Stand+with+Palestine.;I'm+a+Software+Engineer+By+Profession;Diving+Into+Oracle+ERP,;Oracle+BI-Dashboards,;Oracle+Application+Express(APEX);Embarking+On+A+Data+Science+'&';Data+Analysis+Journey+As-Well.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Rao+Atif+Bashir;I+Stand+with+Palestine.;I'm+a+Software+Engineer+By+Profession;Diving+Into+Oracle+ERP,;Oracle+BI-Dashboards,;Oracle+Application+Express(APEX);Embarking+On+A+Data+Science+and;Data+Analysis+Journey+As-Well.;&center=true&width=500&height=50"></a>
 </p>
 
 <p>
@@ -18,12 +18,17 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle Apex-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+	<!--  <img src="https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=PHP&logoColor=000000">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
+</div>
+</p>
+
+<p>
+<div align="center">
 	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 	<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
         <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 	<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
-	<!--  <img src="https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=PHP&logoColor=000000">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
 </div>
 </p>
 
