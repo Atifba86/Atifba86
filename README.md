@@ -20,6 +20,8 @@
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 	<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+        <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+	<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
 	<!--  <img src="https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=PHP&logoColor=000000">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
 </div>
@@ -31,12 +33,10 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
  <!-- <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
-	  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 	 <!--  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">-->
 	  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual%20Studio-131072.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 	<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-	<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
 	
 </div>
 </p>
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/adobeillustrator-310000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=f79500">
   <img src="https://img.shields.io/badge/adobephotoshop-001d34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=2fa3f7">
   <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+  <!--<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"> -->
   	
 </div>
 </p>
