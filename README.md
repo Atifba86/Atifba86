@@ -25,8 +25,8 @@
 
 <p>
 <div align="center">
-	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-	<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+	<img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+	<img src="https://img.shields.io/badge/OCI-FFFFFF?style=for-the-badge&logo=google-cloud&logoColor=red">
         <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 	<img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">
 </div>
@@ -35,13 +35,19 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/basecamp-ffd303?style=for-the-badge&logo=basecamp&logoColor=1b2c35">
+	  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
+	<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+	  <img src="https://img.shields.io/badge/Slack-FFFFFF.svg?style=for-the-badge&logo=slack&logoColor=red">
+</div>
+</p>
+
+<p>
+<div align="center">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
  <!-- <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/Jira-2684FF.svg?style=for-the-badge&logo=Jira&logoColor=white">
 	 <!--  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">-->
 	  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual%20Studio-131072.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-	<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 	
 </div>
 </p>
