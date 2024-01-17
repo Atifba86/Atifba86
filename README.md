@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/JavaScript-efd81d.svg?style=for-the-badge&logo=javascript&logoColor=000000">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle Apex-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 	<!--  <img src="https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=PHP&logoColor=000000">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> -->
 </div>
@@ -25,6 +24,7 @@
 
 <p>
 <div align="center">
+	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 	<img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 	<img src="https://img.shields.io/badge/OCI-FFFFFF?style=for-the-badge&logo=google-cloud&logoColor=red">
         <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
