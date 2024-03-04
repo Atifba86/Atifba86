@@ -140,3 +140,4 @@ I am an experienced software engineer with over a year of dedicated experience i
 	<li><b>Industrial Office & Hotel management System (IOHMS)</a></b>:<ul><li>In this academic project, I designed a structured data and analytical framework for office management. The process began with conceptualizing and establishing the foundation for an efficient office data management system. This involved creating a well-defined structure to organize and analyze various aspects of office operations. Leveraging my analytical skills, I implemented a framework that facilitates the systematic handling of office-related data. The project aimed to enhance office management processes through a strategic combination of data organization and analytical tools. This academic endeavor reflects a proactive approach to optimizing office efficiency and showcases the practical application of data management principles within an organizational context.(Released)
 </ul>
 
+
