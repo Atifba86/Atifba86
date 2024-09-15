@@ -105,8 +105,10 @@
 
 # <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
-<img align="right" alt="conding" width="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
+<img align="right" alt="conding" width="300" 
+src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<!--src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+-->
 I am an experienced software engineer with dedicated experience in software development. Currently, I hold the position of Software Engineer. Possessing a degree in Computer Science, my background includes a focus on secure coding practices. I'm also an active member of the Google Cloud community in Pakistan. I have a strong interest in projects that demand conceptual thinking, and I have established an excellent reputation in both problem-solving and project management. With a solid foundation in development and a commitment to delivering high-quality solutions, my professional journey reflects a combination of technical expertise and a strategic approach to project execution.
 
 
