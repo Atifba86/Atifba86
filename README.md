@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/Balsamiq-880808?style=for-the-badge&logo=wire&logoColor=white">
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft Excel-%4CBB17.svg?style=for-the-badge&logo=Microsoft Excel&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/Microsoft Excel-%4CBB17.svg?style=for-the-badge&logo=Microsoft Excel&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
   <img src=" https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white">
