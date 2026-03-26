@@ -133,7 +133,7 @@ I am an experienced software engineer with dedicated experience in software deve
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Atifba86}/count.svg"></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/{Atifba86}/count.svg"></p> -->
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>	<li><b>Jamjoom Pharma</a></b>:<ul><li>Utilizing Oracle APEX technology, where I have developed a comprehensive software solution for stock and inventory management. This system integrates with Vault Logistics Solutions through APIs and data mapping. The process involves user(Jamjoom Pharma) managing material collection or distribution for companies that place orders in Oracle EBS. Purchase or sales orders are then transmitted to Oracle APEX, acting as middleware, where the data is transferred to the database via API integration. Vault Logistics then manages the dispatch or receipt of quantities based on this data.(Under construction)</li></ul></li>
