@@ -119,7 +119,7 @@ I am an experienced software engineer with dedicated experience in software deve
 <br/>
 <p align="center">
  <!-- <a href="https://raoatif.webnode.page/">  -->
-    <img width="30.5%" src="https://github-readme-stats.vercel.app/api?username=Atifba86&show_icons=true&include_all_commits=true&theme=radical&hide_rank=true&hide_border=true"> 
+  <!--  <img width="30.5%" src="https://github-readme-stats.vercel.app/api?username=Atifba86&show_icons=true&include_all_commits=true&theme=radical&hide_rank=true&hide_border=true"> -->
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atifba86&theme=radical&hide_border=true">		  
   </a>
 </p>
